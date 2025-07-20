@@ -1,7 +1,7 @@
 local Api = "https://katana.it.com" -->> [ API ]
-local ScriptName = "Katana_System" -->> [ اسم السكربت في الموقع ]
+local ScriptName = "" -->> [ اسم السكربت في الموقع ]
 local LicenseKey = Config.License -->> [ رخصة استخدام العميل ]
-local Script_Name_Game = "Katana_System2" -->> [ اسم سكربتك الأساسي ]
+local Script_Name_Game = "" -->> [ اسم سكربتك الأساسي ]
 
 local webhook_start = "" -->> ويب هوك تشغيل السكربت
 local webhook_stop = "" -->> ويب هوك اغلاق السكربت
